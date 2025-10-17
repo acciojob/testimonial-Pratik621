@@ -9,18 +9,12 @@
 	
 	
 }
-.head{
-	
-	font-size:1.3rem;
-	font-weight:10000
-	
-}
 
 .text{
 	display:flex;
 	flex-direction:column;
 	box-sizing:border-box;
-	height:17vh;
+	height:18vh;
 	background-color:white;
 	
 	
@@ -29,6 +23,7 @@
 .footer{
 	display:flex;
 	justify-content:right;
+	font-style:italic;
 	
 }
 
