@@ -5,6 +5,7 @@
 	
 }
 h1{
+	length:1px;
 	padding:5px
 }
 .main{
@@ -21,7 +22,8 @@ h1{
 	box-sizing:border-box;
 	display:flex;
 	flex-direction:column;
-	background-color:white
+	background-color:white;
+	length:1px;
 	
 }
 .footer{
@@ -33,5 +35,6 @@ h1{
 	
 }
 .p{
+	length:1px;
 	background-color:white;
 }
