@@ -1,40 +1,23 @@
-*{
-	margin:center;
-	padding:1px;
-	background-color:#f5f5f5;;
-	
-}
-h1{
-	length:1px;
-	padding:5px
-}
 .main{
-	display:flex;
-	flex-direction:column;
-	
-	gap:10px;
-	padding:10px;
-	background-color:inherit;
+	padding:20px;
+	background-color:gray;
 	
 }
+.box1{
+	border:border-box;
+	padding:15px;
+	background-color:white;
+
+	}
 
 .text{
-	box-sizing:border-box;
-	display:flex;
-	flex-direction:column;
-	background-color:white;
-	length:1px;
+	
+	font-style:normal;
 	
 }
-.footer{
-	background-color:white;
+.author{
 	
 	text-align:right;
 	font-style:italic;
-	
-	
 }
-.p{
-	length:1px;
-	background-color:white;
-}
+
